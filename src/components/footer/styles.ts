@@ -1,10 +1,14 @@
 import styled from "styled-components";
 
-export const FooterContainer = styled.div`
-  width: 100%;
-  height: 150px;
+export const FooterContainer = styled.section`
+  position: relative;
   display: flex;
-  background-color: bisque;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  display: flex;
+  background-color: #242527;
   color: white;
   padding: 10px;
+  font-family: "Poppins", sans-serif;
 `;
