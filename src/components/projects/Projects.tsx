@@ -10,7 +10,7 @@ import {
   ProjectsContainer,
   ProjectStackContainer,
 } from "./styles";
-import { FaGithub } from "react-icons/fa";
+
 const todoDraggable = require("../../images/todo-draggable.png");
 const weather = require("../../images/weather.png");
 const todo = require("../../images/todo.png");
